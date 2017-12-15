@@ -1,2 +1,0 @@
-# A-star
-algorytm a*
